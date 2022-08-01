@@ -33,7 +33,7 @@
     <summary>Lecture 2</summary>
 
 - Type Casting
-    - figuring out type of variable *type(variable_nname)*
+    - figuring out type of variable *type(variable_name)*
     - just use data type keyword to cast an object to another data type *str(1), int("125")*
     - Errors during type casting *int("hello 25"), float("nick")*
 
@@ -51,7 +51,7 @@
     - Indentation **body, code block**
     - looping through lists
     - using range function | **range(10), range(5, 10), range(0, 10, 2)**
-    
+
 </details>
 
 ## Links
