@@ -65,3 +65,9 @@
 **Youtube Channels**
 - [Tech With Tim](https://www.youtube.com/c/TechWithTim) - Python Related content
 - [Computerphile](https://www.youtube.com/user/Computerphile) - Computer Science Related Content
+
+
+
+**Quizes**
+- [Quiz 1](https://forms.gle/iTXu5ZzvWKbgwdGs5)
+- [Quiz 2](https://forms.gle/Z51QqGiVrXcHWiPj8)
