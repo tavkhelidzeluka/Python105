@@ -7,7 +7,7 @@
 
 - Basic Output
     - print builtin function
-    - multiple arguments (print(1, 2, 3, 4))
+    - multiple arguments **print(1, 2, 3, 4)**
 
 - Variables
     - Naming Convention
@@ -15,14 +15,14 @@
     - Case Sensitivity
 
 - Basic Data Types in python
-    - int (integer) (-∞, ..., -2, -1, 0, 1, 2, ..., +∞)
-    - float (fractions) (-∞, ..., -1.1, -1, 0, 1.1, 2, ..., +∞)
-    - str (string) ("hello", 'hello', """Hello""", '''Hello''')
-    - bool (boolean) (True, False)
+    - int (integer)         **(-∞, ..., -2, -1, 0, 1, 2, ..., +∞)**
+    - float (fractions)     **(-∞, ..., -1.1, -1, 0, 1.1, 2, ..., +∞)**
+    - str (string)          **"hello", 'hello', """Hello""", '''Hello'''**
+    - bool (boolean)        **True, False**
 
 - Basic String Operations
-    - concatenation ("Hello" + " " + "World")
-    - fstrings (f"I am {20 + 1} years old")
+    - concatenation **"Hello" + " " + "World"**
+    - fstrings **f"I am {20 + 1} years old"**
 
 - Constants
     - just a convention
@@ -33,9 +33,9 @@
     <summary>Lecture 2</summary>
 
 - Type Casting
-    - figuring out type of variable *type(variable_name)*
-    - just use data type keyword to cast an object to another data type *str(1), int("125")*
-    - Errors during type casting *int("hello 25"), float("nick")*
+    - figuring out type of variable **type(variable_name)**
+    - just use data type keyword to cast an object to another data type **str(1), int("125")**
+    - Errors during type casting **int("hello 25"), float("nick")**
 
 - Data Structures **list**
     - Initialization | **nums = [], nums = list()**
