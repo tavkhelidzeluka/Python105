@@ -29,6 +29,31 @@
     - UPPER_CASE
 </details>
 
+<details>
+    <summary>Lecture 2</summary>
+
+- Type Casting
+    - figuring out type of variable *type(variable_nname)*
+    - just use data type keyword to cast an object to another data type *str(1), int("125")*
+    - Errors during type casting *int("hello 25"), float("nick")*
+
+- Data Structures **list**
+    - Initialization | **nums = [], nums = list()**
+    - Indexing, Why 0?
+    - Accessing elements | **nums[0]**
+    - Changing elements | **nums[0] = 1**
+    - builtin methods | **append, pop, len, sort**
+    - Slicing lists | **nums[3:-1], nums[:], nums[::-1]**
+    - Errors (Index Error) | **nums[Non existent Index]**
+
+- Loops **for**
+    - basic syntax **for element in my_list:**
+    - Indentation **body, code block**
+    - looping through lists
+    - using range function | **range(10), range(5, 10), range(0, 10, 2)**
+    
+</details>
+
 ## Links
 ---
 
