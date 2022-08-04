@@ -90,7 +90,7 @@
     - adding new features (try count, automatic lose after specific amount of tries)
 
 - Challenge **Reversed Guessing Game** 
-    - User thinks of the number and computer should guess it!
+    - User thinks of the number and computer should guess it!`
 
 
 </details>
