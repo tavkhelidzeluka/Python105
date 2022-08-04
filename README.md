@@ -52,6 +52,47 @@
     - looping through lists
     - using range function | **range(10), range(5, 10), range(0, 10, 2)**
 
+- F.Q.A.
+    - What data types can be stored in list? **Every data type that is defined in python by user or by default is eligible to store in list**
+    - How to get reverse order of a list? **list_name.reverse() or list_name[::-1], last one gives python the instruction to get list slice and start from the last element**
+    - Why does list indexing start from 0? **since python stores the address of the first element in RAM, during accessing elements python starts counting from that first element's address**
+
+
+</details>
+
+<details>
+    <summary>Lecture 3</summary>
+
+- Boolean Operators **(==, !=, >, >=, <, <=)**
+    - Equality **==**
+    - Inequality **!=**
+    - Greater **>**
+    - Greater or Equal to **>=**
+    - Less **<**
+    - Less or Equal to **<=**
+
+- Flow Control **if, else**
+    - conditional statement **if | else**
+    - Indentation  **block of code that is executed if statement is satisfied**
+
+- Loops **while**
+    - syntax **while something is True**
+    - Indentation **Block of code that get executed in while loop**
+
+- Data Structures **tuple**
+    - how to define tuple with brackets or commas?
+
+- Using knowledge **Guessing Game**
+    - generating random number **random module**
+    - Infinite Loops
+    - getting user input on every iteration
+    - checking input for correctness
+    - adding new features (try count, automatic lose after specific amount of tries)
+
+- Challenge **Reversed Guessing Game** 
+    - User thinks of the number and computer should guess it!
+
+
 </details>
 
 ## Links
