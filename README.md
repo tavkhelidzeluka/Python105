@@ -95,6 +95,39 @@
 
 </details>
 
+<details>
+    <summary>Lecture 4</summary>
+
+- Statement Chaining **if elif else**
+    - Using Multiple elif Blocks
+    - Omitting the else Block
+    - Testing Multiple Conditions
+
+- Data Structures **dict**
+    - Accessing Values in a Dictionary 
+    - Adding New Key-Value Pairs
+    - Starting with an Empty Dictionary
+    - Modifying Values in a Dictionary 
+    - Removing Key-Value Pairs
+    - Using get() to Access Values
+    - A Dictionary of Similar Objects
+    - Looping Through All Key-Value Pairs
+    - Looping Through All the Keys in a Dictionary
+    - Looping Through All Values in a Dictionary
+    - A List of Dictionaries
+    - A List in a Dictionary
+    - A Dictionary in a Dictionary
+
+- Type Hinting / Annotations
+    - Differences within type hinting in python versions
+    - type hinting for single values
+    - type hinting for data structures
+    - type hinting dictionary VS TypedDict
+    - Any Type
+    - None Type
+
+</details>
+
 ## Links
 ---
 
