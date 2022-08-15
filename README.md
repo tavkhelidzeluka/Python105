@@ -179,3 +179,5 @@
 **Quizes**
 - [Quiz 1](https://forms.gle/iTXu5ZzvWKbgwdGs5)
 - [Quiz 2](https://forms.gle/Z51QqGiVrXcHWiPj8)
+- [Quiz 2.2](https://forms.gle/Pi7rqQHPvrQjMP6N7)
+- [Quiz 3](https://forms.gle/1A3nzcqMYDZ5bt5t7)
