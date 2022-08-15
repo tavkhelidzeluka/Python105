@@ -128,6 +128,40 @@
 
 </details>
 
+<details>
+    <summary>Lecture 5</summary>
+
+- Functions **def**
+    - Defining a Function
+    - Calling a Function
+    - Passing Information to a Function
+    - Arguments vs Parameters
+    - Passing Arguments
+        - Positional Arguments
+        - Keyword Arguments
+    - Default Values
+    - Equivalent Function Calls
+    - Avoiding Argument Errors
+    - Return Values
+    - Making an Argument Optional
+    - Passing an Arbitrary Number of Arguments **args**
+        - Mixing Positional and Arbitrary Arguments
+    - Using Arbitrary Keyword Arguments **kwargs**
+
+- Modules
+    - Storing Your Functions in Modules
+    - Importing an Entire Module
+    - Importing Specific Functions
+    - Using as to Give a Function an Alias **as**
+    - Using as to Give a Module an Alias
+    - Importing All Functions in a Module
+
+
+- Styling Functions
+
+
+</details>
+
 ## Links
 ---
 
