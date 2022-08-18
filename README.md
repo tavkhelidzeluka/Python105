@@ -154,6 +154,7 @@
 
 <details>
     <summary>Lecture 6</summary>
+    
 - Scopes
     - Local Scope Variable
     - Global Scope Variable
