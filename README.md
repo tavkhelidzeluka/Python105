@@ -148,6 +148,16 @@
         - Mixing Positional and Arbitrary Arguments
     - Using Arbitrary Keyword Arguments **kwargs**
 
+
+</details>
+
+
+<details>
+    <summary>Lecture 6</summary>
+- Scopes
+    - Local Scope Variable
+    - Global Scope Variable
+
 - Modules
     - Storing Your Functions in Modules
     - Importing an Entire Module
@@ -156,8 +166,22 @@
     - Using as to Give a Module an Alias
     - Importing All Functions in a Module
 
+- List Comprehension
+    - Syntax
+    - Using conditional statement
 
-- Styling Functions
+- Introduction To OOP
+    - Defining Class
+        - init (constructor)
+        - attributes
+        - Custom Methods
+    - Creating an object **Instantiate**
+    - Using Defined Methods
+    - Default values for attributes
+    - Modifying attributes
+    - Public, Private, Protected attributes
+    - Encapsulation (Getter, Setter)
+
 
 
 </details>
