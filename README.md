@@ -180,10 +180,36 @@
     - Using Defined Methods
     - Default values for attributes
     - Modifying attributes
+
+</details>
+
+<details>
+    <summary>Lecture 7</summary>
+    
+- More About OOP
     - Public, Private, Protected attributes
     - Encapsulation (Getter, Setter)
+    - Inheritance
+        - super
+        - overriding methods
+    - Polymorphism
+    - Composition
+    - Multiple Inheritance
 
+- Working With Files
+    - open / close
+    - read
+    - write
+    - modes (r, a, w)
 
+- Context Manager **with**
+
+- Error Handling **Exceptions**
+    - syntax
+    - try
+    - except
+    - else
+    - finally
 
 </details>
 
