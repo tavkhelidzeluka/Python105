@@ -1,0 +1,10 @@
+Question: Who Found America?
+A: Magelani
+B: Gela
+C: Columbus
+D: Confucius
+Question: When Didgori Battle Happen?
+A: 1200
+B: 1121
+C: 500
+D: 799

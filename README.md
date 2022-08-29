@@ -193,6 +193,15 @@
         - super
         - overriding methods
     - Polymorphism
+   
+
+</details>
+
+
+<details>
+    <summary>Lecture 8</summary>
+
+- More About OOP (Continuation)
     - Composition
     - Multiple Inheritance
 
@@ -211,8 +220,23 @@
     - else
     - finally
 
-</details>
+- Package Installer for Python **pip**
+    - install package
+    - uninstall package
+    - update package
 
+- Virtual Environment using **virtualenv**
+    - create
+    - activate
+    - requirements.txt
+
+- Introduction to Git
+    - clone
+    - pull
+    - commit
+    - push
+
+</details>
 ## Links
 ---
 
