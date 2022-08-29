@@ -15,3 +15,4 @@ with open(question_bank_path) as f:
             questions[current_question].append(value)
         
     print(questions)
+
