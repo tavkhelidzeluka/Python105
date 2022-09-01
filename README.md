@@ -237,6 +237,50 @@
     - push
 
 </details>
+
+<details>
+    <summary>Lecture 9</summary>
+
+- CLI
+    - cd (Change Directory)
+    - cd .. (Change Directory Up)
+    - ls (list files in current directory) [ Mac / Unix ]
+    - dir (list files in current directory) [ Windows ]
+    - pwd (print working directory)
+    - mkdir (make directory)
+    - touch (create file) [ Mac / Unix ]
+
+- Creating Project
+    - Create Virtual Environment
+    - Activating Virtual Environment
+    - Install Dependencies
+    - Generate requirements.txt file
+    - Initialize Git Repository
+    - Share Project (Publish To Github)
+
+- Introduction To Django
+    - What is a Framework?
+    - Why Django?
+    - Who Uses Django
+    - Create Django Project
+        - Creating Virutalenv
+        - Install Django
+        - Generate Django Boilerplate Code
+        - Understanding Django Project Structure
+        - What is manage.py?
+        - Working With manage.py
+            - startproject
+            - createsuperuser
+            - startapp
+    
+    - What Is MVT Architecture?
+    - URLs
+    - Views
+    - Models
+    - Templates
+
+</details>
+
 ## Links
 ---
 
